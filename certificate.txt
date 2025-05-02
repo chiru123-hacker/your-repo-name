@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html> 			
+<head>
+<title>Certificate of completion</title>
+ <link rel="stylesheet" type="text/css" href="certify.css" />
+</head>
+<body>
+    <div class="certificate">
+	 <div class="certi">
+	<h1> Certificate of completion </h1>
+	<h3>This is to certify that</h3>
+	<h2> Daniel Vitorrine </h2>
+	<a>has successfully completed the certification</a> 
+	<b>Java Developer</b>
+    <p>with score of A++<p>
+	</div>
+</div>	
+</body>
+</html>
